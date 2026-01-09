@@ -65,7 +65,7 @@ zora-frontend/
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/edusphere-coder/zora-ecommerce-frontend
 cd zora-frontend
 ```
 
